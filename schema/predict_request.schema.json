@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PredictRequest",
+  "type": "object",
+  "properties": {
+    "instances": {
+      "type": "array",
+      "items": {
+        "$ref": "data_instance.schema.json"
+      }
+    }
+  },
+  "required": [
+    "instances"
+  ],
+  "additionalProperties": false
+}
