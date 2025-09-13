@@ -1,0 +1,34 @@
+# SO / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Etapa 2 (no subir ahora)
+api/
+schema/
+src/retrain.py
+
+# Modelos binarios
+src/models/**
+!src/models/.gitkeep
+
+# Datos: ignora TODO salvo la ENTREGA
+data/**
+!data/test_etiquetado.xlsx
+!data/README.md
+
+# Evaluation: permite solo reportes
+evaluation/*.xlsx
+!evaluation/cv_confusion_matrix.csv
+!evaluation/cv_confusion_matrix.png
+!evaluation/cv_classification_report.txt
+!evaluation/model_selection.json
+!evaluation/top_words.txt

@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+        ODS1     0.9755    0.9465    0.9608       505
+        ODS3     0.9754    0.9765    0.9760       894
+        ODS4     0.9740    0.9873    0.9806      1025
+
+    accuracy                         0.9748      2424
+   macro avg     0.9750    0.9701    0.9725      2424
+weighted avg     0.9748    0.9748    0.9748      2424

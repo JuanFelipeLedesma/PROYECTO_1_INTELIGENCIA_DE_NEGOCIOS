@@ -1,0 +1,81 @@
+
+=== TOP 25 términos para ODS1 ===
+pobreza	5.0167
+la pobreza	3.1432
+pobres	2.5370
+de pobreza	2.2034
+social	1.5337
+ingresos	1.4097
+privacion	1.4024
+los pobres	1.3879
+proteccion social	1.2805
+hogares	1.2735
+proteccion	1.1177
+hogar	1.0605
+empleo	1.0490
+los hogares	1.0388
+transferencias	0.9829
+crecimiento	0.9365
+ninos	0.8892
+de privacion	0.8701
+ingreso	0.8399
+pobre	0.8165
+efectivo	0.8145
+beneficios	0.7285
+vivienda	0.7269
+los ingresos	0.6794
+crisis	0.6709
+
+=== TOP 25 términos para ODS3 ===
+salud	4.0515
+de salud	2.6139
+atencion	2.3177
+medicos	1.7657
+pacientes	1.6746
+enfermedades	1.6030
+la salud	1.5659
+mortalidad	1.3507
+hospitales	1.2542
+alcohol	1.2408
+los pacientes	1.1839
+la atencion	1.1823
+drogas	1.1622
+medica	1.1195
+tratamiento	1.1159
+sanitaria	1.1056
+de atencion	1.1020
+mental	1.0312
+medicamentos	1.0071
+servicios	0.9970
+enfermedad	0.9721
+medicina	0.9630
+atencion primaria	0.9572
+sanitario	0.9477
+sanitarios	0.9424
+
+=== TOP 25 términos para ODS4 ===
+educacion	3.3316
+estudiantes	2.6713
+escuelas	2.5054
+la educacion	2.0011
+los estudiantes	1.8970
+aprendizaje	1.7785
+alumnos	1.7076
+las escuelas	1.6227
+escuela	1.5714
+docentes	1.5298
+habilidades	1.5142
+escolar	1.4582
+profesores	1.4417
+ensenanza	1.3728
+los alumnos	1.2953
+educativos	1.2250
+escolares	1.2134
+de educacion	1.1792
+pisa	1.1253
+educativo	1.1016
+evaluacion	1.0990
+docente	1.0974
+maestros	1.0711
+de aprendizaje	1.0667
+la escuela	1.0595
