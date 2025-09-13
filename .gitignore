@@ -11,7 +11,7 @@ __pycache__/
 *.egg-info/
 .ipynb_checkpoints/
 
-# Etapa 2 (no subir ahora)
+# Etapa 2 
 api/
 schema/
 src/retrain.py
